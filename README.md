@@ -1,0 +1,2 @@
+# Predicting-Cyberbullying-on-Social-Media-using-Machine-Learning-Techniques
+This project builds a machine learning-based system to detect cyberbullying in tweets. It preprocesses text data, applies various machine learning models (Logistic Regression, Naive Bayes, Random Forest), and evaluates them for performance. The system aims to automate cyberbullying detection for safer online environments.
